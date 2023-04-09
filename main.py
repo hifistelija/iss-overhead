@@ -3,8 +3,8 @@ from datetime import datetime
 import smtplib
 import time
 
-MY_LAT = 24.877670 # Your latitude
-MY_LONG = 60.159088 # Your longitude
+MY_LAT = 24.877670
+MY_LONG = 60.159088
 
 
 def is_iss_close():
